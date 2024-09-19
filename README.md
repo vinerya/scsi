@@ -2,6 +2,8 @@
 
 SCSI is a Python package for efficient indexing, querying, and management of geospatial data on spherical surfaces, inspired by satellite constellations.
 
+## WiP
+
 ## Features
 
 - Spherical tessellation using hierarchical grids.
